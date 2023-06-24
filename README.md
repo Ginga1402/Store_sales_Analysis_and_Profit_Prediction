@@ -72,3 +72,33 @@ Discount       - Discount applied
 
 Profit         - Profit amount
 
+## Observations:
+
+The store sales analysis provides valuable insights into the sales performance of different categories and sub-categories within the store. Here are the key findings:
+
+1) Category Sales:
+
+ * The Technology category has the highest sales with $836,154.0330, followed by Furniture with $741,999.7953, and Office Supplies with $719,047.0320.
+
+2) Sub-Category Sales:
+
+  * Among the sub-categories, the top three in terms of sales are Chairs ($328,449.1030), Phones ($330,007.0540), and Storage ($223,843.6080). The sub-categories with the lowest sales are Fasteners ($3,024.2800), Labels ($12,486.3120), and Envelopes ($16,476.4020).
+
+3) Monthly Sales:
+
+  * December has the highest sales with $43,369.1919, followed by September ($36,857.4753) and November ($35,468.4265). January has the lowest sales with $9,134.4461, followed by February ($10,294.6107) and April ($11,587.4363).
+
+4) Monthly Sales:
+
+  * November has the highest sales with $352,461.0710, followed by December ($325,293.5035) and September ($307,649.9457). The months with the lowest sales are January ($94,924.8356) and February ($59,751.2514). 
+
+5) Sales and Profit by Segment:
+
+  * The Consumer segment has the highest total sales of $1,161,401.00 and the highest total profit of $134,119.2092.
+  * The Corporate segment follows with total sales of $706,146.40 and total profit of $91,979.1340.
+  * The Home Office segment has total sales of $429,653.10 and total profit of $60,298.6785.
+
+
+These insights allow businesses to understand the sales performance across different months and segments. By identifying the highest and lowest performing months, businesses can plan marketing campaigns and promotions accordingly. The analysis of sales and profit by segment helps in understanding the revenue and profitability contribution from different customer segments, enabling businesses to focus on target segments for growth and optimization.
+
+Overall, the store sales analysis provides valuable information for businesses to make data-driven decisions, optimize sales strategies, and maximize profitability.
